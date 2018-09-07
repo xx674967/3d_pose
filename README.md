@@ -1,5 +1,5 @@
-# 3D Human Pose Estimation in the Wild by Adversarial Learning代码与总结
-
+# 3DPose总结
+## 参考weakly [代码](https://github.com/xingyizhou/pytorch-pose-hg-3d)
 ## 算法结构图
 <div align="center"><img src="/tools/data/gan1.png"></div>
 
